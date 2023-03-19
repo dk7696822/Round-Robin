@@ -22,7 +22,7 @@ function App() {
       <div
         style={{ display: "flex", justifyContent: "center", marginTop: "50px" }}
       >
-        <h1>Robin Round Scheduler</h1>
+        <h1>Round Robin Scheduler</h1>
       </div>
       <div style={{ textAlign: "center" }}>
         <p>Please input the teams separated by commas</p>
